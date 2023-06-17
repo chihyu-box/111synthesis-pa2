@@ -1,0 +1,774 @@
+# Initial delay:94.44
+# Original power:16665
+# Optimized power:11631.6
+INPUT(G1gat)
+INPUT(G197gat)
+INPUT(G230gat)
+INPUT(G176gat)
+INPUT(G218gat)
+INPUT(G8gat)
+INPUT(G43gat)
+INPUT(G233gat)
+INPUT(G231gat)
+INPUT(G227gat)
+INPUT(G229gat)
+INPUT(G50gat)
+INPUT(G211gat)
+INPUT(G99gat)
+INPUT(G29gat)
+INPUT(G226gat)
+INPUT(G15gat)
+INPUT(G106gat)
+INPUT(G228gat)
+INPUT(G113gat)
+INPUT(G64gat)
+INPUT(G190gat)
+INPUT(G57gat)
+INPUT(G148gat)
+INPUT(G162gat)
+INPUT(G225gat)
+INPUT(G134gat)
+INPUT(G155gat)
+INPUT(n0)
+INPUT(G232gat)
+INPUT(G141gat)
+INPUT(G85gat)
+INPUT(G120gat)
+INPUT(G183gat)
+INPUT(G92gat)
+INPUT(G78gat)
+INPUT(G36gat)
+INPUT(G22gat)
+INPUT(G71gat)
+INPUT(G169gat)
+INPUT(G127gat)
+INPUT(G204gat)
+OUTPUT(G1334gat)
+OUTPUT(G1342gat)
+OUTPUT(G1343gat)
+OUTPUT(G1327gat)
+OUTPUT(G1346gat)
+OUTPUT(G1337gat)
+OUTPUT(G1336gat)
+OUTPUT(G1339gat)
+OUTPUT(G1326gat)
+OUTPUT(G1354gat)
+OUTPUT(G1340gat)
+OUTPUT(G1332gat)
+OUTPUT(G1329gat)
+OUTPUT(G1347gat)
+OUTPUT(G1348gat)
+OUTPUT(G1341gat)
+OUTPUT(G1349gat)
+OUTPUT(G1325gat)
+OUTPUT(G1330gat)
+OUTPUT(G1328gat)
+OUTPUT(G1333gat)
+OUTPUT(G1324gat)
+OUTPUT(G1335gat)
+OUTPUT(G1350gat)
+OUTPUT(G1351gat)
+OUTPUT(G1344gat)
+OUTPUT(G1345gat)
+OUTPUT(G1331gat)
+OUTPUT(G1352gat)
+OUTPUT(G1338gat)
+OUTPUT(G1353gat)
+OUTPUT(G1355gat)
+Gate1      = INV2(n445)         #2.77
+Gate2      = INV1(n445)         #5.44
+G1334gat   = n449         #0
+Gate3      = INV2(n501)         #2.77
+Gate4      = INV1(n501)         #5.44
+G1342gat   = n505         #0
+Gate5      = INV2(n403)         #2.77
+Gate6      = INV1(n403)         #5.44
+Gate7      = INV2(n458)         #2.77
+Gate8      = INV1(n458)         #5.44
+Gate9      = INV1(n378)         #22.68
+Gate10     = INV1(n481)         #25.08
+G1347gat   = n532         #0
+Gate11     = INV1(n270)         #40.76
+Gate12     = INV2(n270)         #37.65
+Gate13     = INV2(n270)         #38.65
+Gate14     = INV2(n270)         #36.93
+Gate15     = INV2(n270)         #36.93
+Gate16     = INV1(n485)         #21.08
+Gate17     = INV1(n357)         #79.28
+G1339gat   = n477         #0
+G1345gat   = n522         #0
+Gate18     = INV2(n393)         #2.77
+Gate19     = INV1(n393)         #5.44
+Gate20     = INV2(n416)         #2.77
+Gate21     = INV1(n416)         #5.44
+G1326gat   = n402         #0
+Gate22     = INV3(n171)         #29.39
+Gate23     = INV3(n171)         #29.67
+Gate24     = INV2(n369)         #36.98
+Gate25     = INV2(n369)         #36.98
+Gate26     = INV1(n369)         #40.81
+Gate27     = INV2(n369)         #37.7
+Gate28     = INV2(n369)         #38.7
+Gate29     = INV1(n432)         #17.04
+Gate30     = INV1(n245)         #27
+Gate31     = INV3(n245)         #26.61
+Gate32     = INV3(n245)         #24.45
+G1351gat   = n555         #0
+G1325gat   = n397         #0
+Gate33     = INV2(n421)         #2.77
+Gate34     = INV1(n421)         #5.44
+Gate35     = INV1(n486)         #19.08
+Gate36     = INV1(n433)         #10.88
+Gate37     = INV1(n511)         #10.63
+Gate38     = INV1(n535)         #6.21
+Gate39     = INV1(n535)         #6.21
+Gate40     = INV1(n535)         #6.21
+Gate41     = INV1(n535)         #6.21
+G1344gat   = n517         #0
+Gate42     = INV1(n220)         #29.01
+Gate43     = INV3(n220)         #28.62
+G1328gat   = n415         #0
+G1354gat   = n572         #0
+Gate44     = INV2(n541)         #2.77
+Gate45     = INV1(n541)         #5.44
+Gate46     = INV1(n479)         #25.08
+G1329gat   = n420         #0
+Gate47     = INV1(n410)         #6.21
+Gate48     = INV1(n410)         #6.21
+Gate49     = INV1(n410)         #6.21
+Gate50     = INV1(n410)         #6.21
+Gate51     = INV1(n533)         #17.52
+Gate52     = INV1(n478)         #27.96
+Gate53     = INV2(n551)         #2.77
+Gate54     = INV1(n551)         #5.44
+Gate55     = INV2(n558)         #2.77
+Gate56     = INV1(n558)         #5.44
+Gate57     = INV1(n371)         #25.08
+Gate58     = INV1(n344)         #27.21
+Gate59     = INV3(n344)         #26.82
+Gate60     = INV3(n344)         #24.66
+Gate61     = INV2(n450)         #2.77
+Gate62     = INV1(n450)         #5.44
+G1349gat   = n545         #0
+Gate63     = INV2(n496)         #2.77
+Gate64     = INV1(n496)         #5.44
+Gate65     = INV1(n534)         #11.36
+Gate66     = INV1(n556)         #12.79
+Gate67     = INV2(n468)         #2.77
+Gate68     = INV1(n468)         #5.44
+Gate69     = INV1(n384)         #22.29
+G1348gat   = n540         #0
+G1327gat   = n407         #0
+Gate70     = INV2(n122)         #28.83
+Gate71     = INV1(n122)         #28.89
+Gate72     = INV2(n319)         #29.01
+Gate73     = INV1(n319)         #29.07
+Gate74     = INV1(n382)         #19.08
+Gate76     = INV3(Gate75)         #63.47
+Gate75     = INV1(n273)         #62.74
+Gate77     = INV1(n332)         #76.28
+Gate78     = INV1(n375)         #22.5
+G1324gat   = n392         #0
+G1337gat   = n467         #0
+Gate79     = INV1(n135)         #74.28
+G1336gat   = n462         #0
+G1346gat   = n527         #0
+Gate80     = INV1(n408)         #16.69
+Gate81     = INV1(n233)         #79.28
+Gate82     = INV1(n455)         #19.3
+Gate83     = INV2(n523)         #2.77
+Gate84     = INV1(n523)         #5.44
+Gate85     = INV1(n373)         #25.08
+G1331gat   = n430         #0
+Gate86     = INV1(n184)         #78.28
+Gate87     = INV1(n283)         #76.28
+Gate88     = INV2(n573)         #2.77
+Gate89     = INV1(n573)         #5.44
+Gate90     = INV2(n536)         #2.77
+Gate91     = INV1(n536)         #5.44
+Gate92     = INV2(n528)         #2.77
+Gate93     = INV1(n528)         #5.44
+Gate94     = INV2(n435)         #2.77
+Gate95     = INV1(n435)         #5.44
+Gate96     = INV2(n473)         #2.77
+Gate97     = INV1(n473)         #5.44
+Gate98     = INV1(n489)         #11.54
+Gate99     = INV1(n258)         #79.28
+G1355gat   = n577         #0
+Gate100    = INV1(n431)         #22.02
+Gate101    = INV2(n388)         #2.77
+Gate102    = INV1(n388)         #5.44
+G1340gat   = n495         #0
+Gate103    = INV1(n86)         #76.28
+Gate104    = INV2(n491)         #2.77
+Gate105    = INV1(n491)         #5.44
+Gate106    = INV2(n506)         #2.77
+Gate107    = INV1(n506)         #5.44
+Gate108    = INV1(n490)         #6.21
+Gate109    = INV1(n490)         #6.21
+Gate110    = INV1(n490)         #6.21
+Gate111    = INV1(n490)         #6.21
+Gate112    = INV1(n488)         #17.7
+Gate113    = INV1(n557)         #6.21
+Gate114    = INV1(n557)         #6.21
+Gate115    = INV1(n557)         #6.21
+Gate116    = INV1(n557)         #6.21
+Gate117    = INV1(n387)         #6.21
+Gate118    = INV1(n387)         #6.21
+Gate119    = INV1(n387)         #6.21
+Gate120    = INV1(n387)         #6.21
+Gate121    = INV2(n513)         #2.77
+Gate122    = INV1(n513)         #5.44
+Gate123    = INV1(n386)         #10.43
+Gate124    = INV1(n385)         #16.59
+G1333gat   = n444         #0
+Gate125    = INV1(n381)         #21.08
+Gate126    = INV3(n370)         #26.89
+Gate127    = INV3(n370)         #26.89
+Gate128    = INV1(n376)         #19.77
+Gate129    = INV1(n379)         #17.61
+Gate130    = INV2(n546)         #2.77
+Gate131    = INV1(n546)         #5.44
+G1330gat   = n425         #0
+Gate132    = INV1(n409)         #9.71
+Gate133    = INV2(n440)         #2.77
+Gate134    = INV1(n440)         #5.44
+Gate135    = INV2(n426)         #2.77
+Gate136    = INV1(n426)         #5.44
+G1338gat   = n472         #0
+Gate137    = INV1(n456)         #12.32
+G1335gat   = n454         #0
+G1343gat   = n510         #0
+Gate138    = INV2(n398)         #2.77
+Gate139    = INV1(n398)         #5.44
+Gate140    = INV2(n518)         #2.77
+Gate141    = INV1(n518)         #5.44
+Gate142    = INV1(n512)         #6.21
+Gate143    = INV1(n512)         #6.21
+Gate144    = INV1(n512)         #6.21
+Gate145    = INV1(n512)         #6.21
+Gate146    = INV1(n434)         #6.21
+Gate147    = INV1(n434)         #6.21
+Gate148    = INV1(n434)         #6.21
+Gate149    = INV1(n434)         #6.21
+G1352gat   = n562         #0
+Gate150    = INV2(n463)         #2.77
+Gate151    = INV1(n463)         #5.44
+Gate152    = INV2(n568)         #2.77
+Gate153    = INV1(n568)         #5.44
+Gate154    = INV1(n457)         #6.21
+Gate155    = INV1(n457)         #6.21
+Gate156    = INV1(n457)         #6.21
+Gate157    = INV1(n457)         #6.21
+G1350gat   = n550         #0
+G1341gat   = n500         #0
+G1353gat   = n567         #0
+Gate158    = INV2(n563)         #2.77
+Gate159    = INV1(n563)         #5.44
+Gate160    = INV2(n411)         #2.77
+Gate161    = INV1(n411)         #5.44
+G1332gat   = n439         #0
+n472       = NAND1(n470, n471)         #0
+n392       = NAND1(n390, n391)         #0
+n532       = NAND1(n531, n530)         #0
+n402       = NAND1(n400, n401)         #0
+n439       = NAND1(n437, n438)         #0
+n335       = NAND1(n295, n333)         #54.46
+n235       = NAND1(n147, n234)         #59.14
+n112       = NAND1(n98, n111)         #57.58
+n455       = NAND1(Gate31, Gate100)         #28.07
+n333       = NAND3(n98, n295)         #57.9
+n152       = NAND2(G50gat, G43gat)         #83.38
+n85        = NAND1(n84, n83)         #45.97
+n356       = NAND3(n354, n355)         #50.02
+n232       = NAND1(n230, n231)         #49.02
+n475       = NAND1(n474, G106gat)         #2
+n181       = NAND3(n180, n175)         #44.53
+n334       = NAND1(n98, n333)         #54.46
+n115       = NAND1(n114, Gate103)         #52.14
+n183       = NAND1(n181, n182)         #42.53
+n84        = NAND1(n82, n81)         #49.64
+n240       = NAND1(n238, n237)         #50.26
+n133       = NAND2(n131, n130)         #46.59
+n271       = NAND2(G36gat, G8gat)         #78.99
+n290       = NAND1(G190gat, n288)         #78.22
+n129       = NAND2(G197gat, n127)         #69.17
+n188       = NAND3(n186, n187)         #76.06
+n575       = NAND1(G218gat, n574)         #2
+n145       = NAND1(n139, n144)         #71.06
+n147       = NAND1(n145, n146)         #69.06
+n361       = NAND1(n360, n359)         #59.02
+n517       = NAND1(n516, n515)         #0
+n194       = NAND1(n188, n193)         #69.18
+n171       = NAND1(n170, n169)         #33.55
+n195       = NAND1(n192, n193)         #69.18
+n565       = NAND1(G204gat, n564)         #2
+n305       = NAND1(n299, n304)         #69.34
+n307       = NAND1(n305, n306)         #67.34
+n83        = NAND1(n77, n82)         #48.97
+n329       = NAND2(n328, n323)         #39.87
+n97        = NAND1(n94, n95)         #69.34
+n193       = NAND1(n188, n192)         #72.62
+n396       = NAND1(Gate18, n394)         #2
+n134       = NAND3(n133, n132)         #42.43
+n257       = NAND3(n255, n256)         #49.97
+n528       = NAND1(n270, Gate144)         #6.21
+n261       = NAND1(n208, n259)         #61.02
+n180       = NAND1(n179, n175)         #53.08
+n537       = NAND1(G169gat, Gate91)         #5.44
+n570       = NAND1(G211gat, n569)         #2
+n82        = NAND1(n77, n81)         #53.08
+n353       = NAND1(n348, n352)         #58.85
+n159       = NAND1(n157, n158)         #69.06
+n274       = NAND2(n272, Gate76)         #62.47
+n344       = NAND1(n342, n343)         #28.82
+n81        = NAND2(n79, n80)         #56.52
+n224       = NAND2(n223, n222)         #62.34
+n208       = NAND1(n207, n206)         #69.34
+n323       = NAND2(n322, n321)         #60.19
+n151       = NAND1(n149, n150)         #77.94
+n246       = NAND2(G162gat, G134gat)         #85.1
+n447       = NAND1(n446, G71gat)         #2
+n90        = NAND1(n88, n89)         #76.22
+n144       = NAND1(n139, n143)         #74.5
+n287       = NAND1(n286, n285)         #76.22
+n446       = NAND1(Gate2, G71gat)         #5.44
+n253       = NAND3(n252, n251)         #66.73
+n255       = NAND3(n254, n249)         #54.13
+n254       = NAND1(n253, n249)         #61.29
+n108       = NAND1(n107, n102)         #69.34
+n158       = NAND1(n156, n155)         #71.06
+n139       = NAND1(n137, n138)         #77.94
+n150       = NAND1(n148, G36gat)         #79.94
+n101       = NAND1(n99, G148gat)         #78.22
+n203       = NAND1(n201, G106gat)         #80.22
+n99        = NAND2(G148gat, G141gat)         #81.66
+n432       = NAND2(n245, Gate100)         #21.81
+n358       = NAND1(n110, n307)         #64.46
+n552       = NAND1(G190gat, Gate54)         #5.44
+n236       = NAND1(n196, n234)         #59.14
+n505       = NAND1(n504, n503)         #0
+n178       = NAND2(G204gat, n176)         #69.45
+n154       = NAND1(n152, G50gat)         #79.94
+n170       = NAND1(n167, n168)         #35.55
+n128       = NAND2(G169gat, n127)         #69.17
+n141       = NAND1(n140, G15gat)         #79.94
+n104       = NAND1(G155gat, n103)         #78.22
+n96        = NAND1(n90, n95)         #69.34
+n79        = NAND2(G57gat, n78)         #67.45
+n280       = NAND3(n274, n279)         #48.15
+n308       = NAND1(n307, n295)         #61.02
+n142       = NAND1(G22gat, n140)         #79.94
+n87        = NAND2(G113gat, G120gat)         #81.66
+n77        = NAND2(n75, n76)         #58.62
+n501       = NAND1(n245, Gate111)         #6.21
+n176       = NAND2(G204gat, G176gat)         #83.66
+n286       = NAND1(n284, G176gat)         #78.22
+n106       = NAND1(n104, n105)         #76.22
+n113       = NAND1(n111, n110)         #57.58
+n354       = NAND1(n353, n348)         #55.41
+n410       = NAND1(n383, Gate132)         #12.53
+n332       = NAND2(G227gat, G233gat)         #83.66
+n445       = NAND1(n344, Gate149)         #6.21
+n156       = NAND1(n155, n151)         #74.5
+n309       = NAND1(n295, n308)         #57.58
+n548       = NAND1(n547, G183gat)         #2
+n461       = NAND1(n459, Gate7)         #2
+n74        = NAND2(G1gat, G29gat)         #81.66
+n164       = NAND3(n163, Gate79)         #47.98
+n202       = NAND1(G99gat, n201)         #80.22
+n148       = NAND2(G36gat, G29gat)         #83.38
+n350       = NAND2(G78gat, n349)         #70.89
+n419       = NAND1(Gate20, n417)         #2
+n251       = NAND2(G190gat, n250)         #70.89
+n403       = NAND1(n369, Gate120)         #6.21
+n259       = NAND1(n159, n208)         #64.46
+n209       = NAND1(n208, n196)         #60.86
+n371       = NAND1(Gate58, Gate127)         #27.85
+n111       = NAND1(n98, n110)         #61.02
+n502       = NAND1(Gate4, G127gat)         #5.44
+n126       = NAND3(n124, n125)         #65.01
+n272       = NAND3(n271, G8gat)         #73.4
+n313       = NAND1(n312, Gate87)         #48.7
+n201       = NAND2(G99gat, G106gat)         #83.66
+n373       = NAND1(n344, Gate126)         #27.85
+n303       = NAND1(n301, n302)         #76.22
+n423       = NAND1(G43gat, n422)         #2
+n80        = NAND2(G85gat, n78)         #67.45
+n137       = NAND1(G1gat, n136)         #79.94
+n484       = NAND1(Gate13, Gate80)         #21.3
+n157       = NAND1(n156, n151)         #71.06
+n541       = NAND1(Gate38, n220)         #6.21
+n196       = NAND1(n194, n195)         #67.18
+n132       = NAND2(n131, n126)         #46.59
+n250       = NAND2(G218gat, G190gat)         #85.1
+n530       = NAND1(G162gat, n529)         #2
+n294       = NAND1(n291, n292)         #69.34
+n273       = NAND2(n271, G36gat)         #71.73
+n326       = NAND2(n324, G99gat)         #68.45
+n118       = NAND1(n116, n117)         #46.7
+n231       = NAND3(n229, n228)         #51.02
+n527       = NAND1(n525, n526)         #0
+n264       = NAND1(Gate99, n263)         #52.14
+n531       = NAND1(Gate92, n529)         #2
+n417       = NAND1(Gate21, G36gat)         #5.44
+n247       = NAND2(G134gat, n246)         #70.89
+n558       = NAND1(n171, Gate114)         #6.21
+n130       = NAND3(n128, n129)         #65.01
+n140       = NAND2(G22gat, G15gat)         #83.38
+n304       = NAND1(n303, n299)         #72.78
+n199       = NAND1(G92gat, n197)         #80.22
+n301       = NAND1(n300, G211gat)         #78.22
+n291       = NAND1(n290, n289)         #76.22
+n362       = NAND1(Gate17, n361)         #55.58
+n543       = NAND1(G176gat, n542)         #2
+n554       = NAND1(Gate53, n552)         #2
+n348       = NAND2(n346, n347)         #62.63
+n256       = NAND3(n253, n254)         #54.13
+n127       = NAND2(G197gat, G169gat)         #83.38
+n451       = NAND1(Gate62, G78gat)         #5.44
+n384       = NAND3(n171, Gate43)         #30.34
+n540       = NAND1(n539, n538)         #0
+n468       = NAND1(n344, Gate154)         #6.21
+n260       = NAND1(n159, n259)         #61.02
+n320       = NAND2(G43gat, G15gat)         #85.38
+n393       = NAND1(n319, Gate117)         #6.21
+n416       = NAND1(Gate49, n319)         #6.21
+n295       = NAND1(n294, n293)         #67.34
+n206       = NAND1(n200, n205)         #71.34
+n221       = NAND2(G127gat, G155gat)         #85.38
+n200       = NAND1(n198, n199)         #78.22
+n222       = NAND2(G127gat, n221)         #71.17
+n352       = NAND2(n350, n351)         #62.29
+n227       = NAND2(n225, G211gat)         #68.45
+n375       = NAND2(Gate70, n319)         #30.55
+n281       = NAND3(n278, n279)         #48.15
+n324       = NAND2(G71gat, G99gat)         #85.38
+n526       = NAND1(n524, Gate83)         #2
+n331       = NAND1(n329, n330)         #37.87
+n173       = NAND2(G120gat, n172)         #69.45
+n229       = NAND1(n224, n228)         #58.18
+n228       = NAND3(n226, n227)         #61.62
+n190       = NAND1(G71gat, n189)         #80.22
+n275       = NAND2(G92gat, G64gat)         #81.66
+n185       = NAND2(G57gat, G64gat)         #83.66
+n355       = NAND1(n353, n352)         #55.41
+n92        = NAND1(n91, G127gat)         #78.22
+n248       = NAND2(G162gat, n246)         #70.89
+n242       = NAND2(n232, n241)         #34.05
+n327       = NAND2(n325, n326)         #57.52
+n519       = NAND1(G148gat, Gate141)         #5.44
+n225       = NAND2(G211gat, G183gat)         #85.38
+n341       = NAND1(n340, n331)         #34.26
+n88        = NAND1(n87, G113gat)         #78.22
+n213       = NAND1(n212, Gate86)         #49.82
+n328       = NAND1(n327, n323)         #54.08
+n179       = NAND2(n178, n177)         #56.52
+n368       = NAND1(n365, n366)         #43.14
+n346       = NAND2(n345, G22gat)         #70.89
+n369       = NAND1(n368, n367)         #41.14
+n300       = NAND2(G218gat, G211gat)         #81.66
+n299       = NAND1(n297, n298)         #76.22
+n192       = NAND3(n190, n191)         #76.06
+n211       = NAND1(n208, n209)         #57.42
+n230       = NAND3(n229, n224)         #51.02
+n95        = NAND1(n94, n90)         #72.78
+n153       = NAND1(n152, G43gat)         #79.94
+n93        = NAND1(n91, G134gat)         #78.22
+n496       = NAND1(n220, Gate109)         #6.21
+n465       = NAND1(G92gat, n464)         #2
+n297       = NAND1(n296, G197gat)         #78.22
+n94        = NAND1(n93, n92)         #76.22
+n485       = NAND1(n480, n482)         #23.85
+n404       = NAND1(Gate6, G22gat)         #5.44
+n91        = NAND2(G127gat, G134gat)         #81.66
+n169       = NAND1(n134, n168)         #35.55
+n357       = NAND2(G228gat, G233gat)         #83.38
+n424       = NAND1(Gate33, n422)         #2
+n239       = NAND1(n238, Gate81)         #50.26
+n310       = NAND1(n307, n308)         #57.58
+n545       = NAND1(n543, n544)         #0
+n252       = NAND2(G218gat, n250)         #70.89
+n481       = NAND1(n245, Gate52)         #27.85
+n535       = NAND1(n487, Gate65)         #12.53
+n511       = NAND2(n369, Gate129)         #17.4
+n288       = NAND2(G190gat, G183gat)         #81.66
+n258       = NAND2(G232gat, G233gat)         #83.38
+n577       = NAND1(n575, n576)         #0
+n363       = NAND1(Gate17, n362)         #52.14
+n138       = NAND1(G8gat, n136)         #79.94
+n205       = NAND1(n200, n204)         #74.78
+n520       = NAND1(n519, G148gat)         #2
+n172       = NAND2(G120gat, G148gat)         #83.66
+n388       = NAND1(n122, Gate118)         #6.21
+n131       = NAND1(n130, n126)         #60.8
+n75        = NAND2(n74, G1gat)         #67.45
+n160       = NAND1(n159, n147)         #62.74
+n407       = NAND1(n406, n405)         #0
+n276       = NAND2(n275, G64gat)         #67.45
+n102       = NAND1(n101, n100)         #76.22
+n555       = NAND1(n554, n553)         #0
+n175       = NAND2(n173, n174)         #56.52
+n431       = NAND3(Gate23, n220)         #30.07
+n394       = NAND1(Gate19, G8gat)         #5.44
+n296       = NAND2(G204gat, G197gat)         #81.66
+n372       = NAND1(n369, Gate57)         #24.85
+n322       = NAND2(G43gat, n320)         #68.45
+n397       = NAND1(n396, n395)         #0
+n347       = NAND2(G50gat, n345)         #70.89
+n182       = NAND3(n179, n180)         #44.53
+n279       = NAND3(n274, n278)         #55.31
+n302       = NAND1(n300, G218gat)         #78.22
+n233       = NAND2(G231gat, G233gat)         #83.66
+n408       = NAND3(Gate32, Gate69)         #25.46
+n278       = NAND3(n277, n276)         #62.78
+n76        = NAND2(n74, G29gat)         #67.45
+n382       = NAND1(n377, Gate125)         #21.85
+n509       = NAND1(n507, Gate106)         #2
+n174       = NAND2(G148gat, n172)         #66.06
+n427       = NAND1(G50gat, Gate136)         #5.44
+n110       = NAND1(n109, n108)         #67.34
+n435       = NAND1(n122, Gate148)         #6.21
+n114       = NAND1(n112, n113)         #55.58
+n249       = NAND3(n247, n248)         #64.73
+n293       = NAND1(n287, n292)         #69.34
+n184       = NAND2(G230gat, G233gat)         #81.94
+n330       = NAND2(n327, n328)         #39.87
+n186       = NAND1(G57gat, n185)         #80.22
+n187       = NAND1(G64gat, n185)         #80.22
+n377       = NAND1(Gate27, Gate128)         #23.3
+n284       = NAND2(G176gat, G169gat)         #81.66
+n226       = NAND2(n225, G183gat)         #71.17
+n223       = NAND2(G155gat, n221)         #71.17
+n390       = NAND1(G1gat, n389)         #2
+n282       = NAND1(n281, n280)         #46.15
+n277       = NAND2(G92gat, n275)         #67.45
+n325       = NAND2(n324, G71gat)         #71.17
+n241       = NAND1(n240, n239)         #48.26
+n289       = NAND1(n288, G183gat)         #78.22
+n123       = NAND2(G113gat, G141gat)         #83.38
+n149       = NAND1(n148, G29gat)         #79.94
+n191       = NAND1(G78gat, n189)         #80.22
+n524       = NAND1(G155gat, Gate84)         #5.44
+n161       = NAND1(n160, n147)         #59.3
+n162       = NAND1(n159, n160)         #59.3
+n210       = NAND1(n196, n209)         #57.42
+n572       = NAND1(n570, n571)         #0
+n207       = NAND1(n205, n204)         #71.34
+n359       = NAND1(n358, n110)         #61.02
+n360       = NAND1(n358, n307)         #61.02
+n342       = NAND1(n341, n331)         #30.82
+n336       = NAND3(n334, n335)         #50.3
+n105       = NAND1(G162gat, n103)         #78.22
+n163       = NAND3(n161, n162)         #55.14
+n262       = NAND1(n261, n260)         #59.02
+n489       = NAND3(Gate25, Gate112)         #18.31
+n337       = NAND1(n336, Gate77)         #46.86
+n317       = NAND1(n316, n282)         #39.27
+n312       = NAND1(n311, Gate87)         #52.14
+n265       = NAND1(n262, n263)         #52.14
+n339       = NAND3(n336, n337)         #39.7
+n116       = NAND1(n115, Gate103)         #48.7
+n467       = NAND1(n465, n466)         #0
+n166       = NAND1(n164, n163)         #44.54
+n165       = NAND1(n164, Gate79)         #44.54
+n197       = NAND2(G85gat, G92gat)         #83.66
+n124       = NAND2(G113gat, n123)         #69.17
+n117       = NAND1(n115, n114)         #48.7
+n214       = NAND1(n213, Gate86)         #46.38
+n495       = NAND1(n493, n494)         #0
+n338       = NAND3(n337, Gate77)         #39.7
+n212       = NAND3(n211, n210)         #53.26
+n420       = NAND1(n419, n418)         #0
+n314       = NAND1(n311, n312)         #48.7
+n364       = NAND1(n362, n361)         #52.14
+n466       = NAND1(Gate150, n464)         #2
+n476       = NAND1(n474, Gate96)         #2
+n573       = NAND1(n270, Gate113)         #6.21
+n536       = NAND1(n171, Gate40)         #6.21
+n499       = NAND1(Gate63, n497)         #2
+n167       = NAND1(n165, n166)         #42.54
+n365       = NAND1(n364, n363)         #50.14
+n136       = NAND2(G8gat, G1gat)         #83.38
+n216       = NAND3(n214, n215)         #42.22
+n340       = NAND1(n339, n338)         #37.7
+n217       = NAND1(n183, n216)         #38.78
+n430       = NAND1(n428, n429)         #0
+n168       = NAND1(n134, n167)         #38.99
+n458       = NAND1(n122, Gate157)         #6.21
+n345       = NAND2(G50gat, G22gat)         #85.1
+n366       = NAND1(n356, n365)         #46.58
+n198       = NAND1(G85gat, n197)         #80.22
+n343       = NAND1(n340, n341)         #30.82
+n219       = NAND1(n216, n217)         #35.34
+n285       = NAND1(n284, G169gat)         #78.22
+n244       = NAND1(n242, n241)         #30.61
+n269       = NAND1(n267, n266)         #43.09
+n120       = NAND1(n85, n119)         #39.09
+n107       = NAND1(n102, n106)         #72.78
+n121       = NAND1(n118, n119)         #39.09
+n483       = NAND1(Gate12, Gate82)         #22.91
+n283       = NAND2(G226gat, G233gat)         #79.94
+n268       = NAND1(n267, n257)         #43.09
+n574       = NAND1(G218gat, Gate89)         #5.44
+n109       = NAND1(n107, n106)         #69.34
+n414       = NAND1(Gate160, n412)         #2
+n298       = NAND1(n296, G204gat)         #78.22
+n523       = NAND1(n245, Gate145)         #6.21
+n477       = NAND1(n475, n476)         #0
+n367       = NAND1(n356, n366)         #43.14
+n522       = NAND1(n520, n521)         #0
+n243       = NAND1(n232, n242)         #30.61
+n270       = NAND1(n268, n269)         #41.09
+n238       = NAND1(Gate81, n237)         #53.7
+n245       = NAND1(n243, n244)         #28.61
+n378       = NAND2(n122, Gate72)         #30.73
+n319       = NAND1(n317, n318)         #37.27
+n220       = NAND1(n219, n218)         #32.78
+n155       = NAND1(n153, n154)         #77.94
+n462       = NAND1(n460, n461)         #0
+n122       = NAND1(n121, n120)         #37.09
+n119       = NAND1(n85, n118)         #42.53
+n478       = NAND3(Gate22, Gate42)         #30.73
+n370       = NAND1(Gate71, Gate73)         #28.89
+n266       = NAND1(n264, n265)         #50.14
+n418       = NAND1(G36gat, n417)         #2
+n78        = NAND2(G85gat, G57gat)         #81.66
+n379       = NAND3(Gate9, Gate60)         #26.38
+n351       = NAND2(n349, G106gat)         #70.89
+n376       = NAND1(Gate59, Gate78)         #28.54
+n488       = NAND2(Gate9, n344)         #22.47
+n533       = NAND2(n344, Gate78)         #22.29
+n385       = NAND2(n245, Gate69)         #21.36
+n444       = NAND1(n442, n443)         #0
+n267       = NAND1(n257, n266)         #46.53
+n479       = NAND1(Gate30, Gate52)         #27.85
+n556       = NAND2(n369, Gate128)         #19.56
+n534       = NAND3(Gate24, Gate51)         #18.13
+n386       = NAND3(Gate14, Gate124)         #17.2
+n311       = NAND1(n309, n310)         #55.58
+n482       = NAND1(Gate10, Gate11)         #24.85
+n456       = NAND2(n270, Gate82)         #19.09
+n409       = NAND2(n270, Gate80)         #16.48
+n237       = NAND1(n236, n235)         #57.14
+n380       = NAND1(Gate28, Gate129)         #22.22
+n480       = NAND1(n270, Gate46)         #24.85
+n100       = NAND1(n99, G141gat)         #78.22
+n374       = NAND1(Gate26, Gate85)         #24.85
+n515       = NAND1(G141gat, n514)         #2
+n433       = NAND3(Gate15, Gate29)         #17.65
+n486       = NAND1(Gate16, n483)         #21.85
+n381       = NAND1(n372, n374)         #23.85
+n177       = NAND2(G176gat, n176)         #69.45
+n383       = NAND1(Gate74, n380)         #18.85
+n487       = NAND1(n484, Gate35)         #18.85
+n490       = NAND1(n487, Gate98)         #12.53
+n549       = NAND1(Gate130, n547)         #2
+n318       = NAND1(n316, n315)         #39.27
+n387       = NAND1(n383, Gate123)         #12.53
+n218       = NAND1(n183, n217)         #35.34
+n513       = NAND1(n171, Gate143)         #6.21
+n508       = NAND1(n507, G134gat)         #2
+n512       = NAND1(Gate37, n487)         #12.53
+n491       = NAND1(n171, Gate108)         #6.21
+n436       = NAND1(G57gat, Gate95)         #5.44
+n506       = NAND1(n270, Gate110)         #6.21
+n441       = NAND1(G64gat, Gate134)         #5.44
+n146       = NAND1(n144, n143)         #71.06
+n440       = NAND1(n319, Gate146)         #6.21
+n450       = NAND1(n369, Gate147)         #6.21
+n518       = NAND1(n220, Gate142)         #6.21
+n463       = NAND1(n319, Gate155)         #6.21
+n560       = NAND1(G197gat, n559)         #2
+n516       = NAND1(Gate121, n514)         #2
+n473       = NAND1(n369, Gate156)         #6.21
+n306       = NAND1(n303, n304)         #69.34
+n568       = NAND1(n245, Gate115)         #6.21
+n411       = NAND1(Gate50, n122)         #6.21
+n263       = NAND1(n262, Gate99)         #55.58
+n563       = NAND1(n220, Gate116)         #6.21
+n421       = NAND1(Gate47, n344)         #6.21
+n89        = NAND1(n87, G120gat)         #78.22
+n426       = NAND1(n369, Gate48)         #6.21
+n551       = NAND1(n270, Gate39)         #6.21
+n135       = NAND2(G229gat, G233gat)         #81.66
+n542       = NAND1(Gate45, G176gat)         #5.44
+n503       = NAND1(n502, G127gat)         #2
+n547       = NAND1(Gate131, G183gat)         #5.44
+n507       = NAND1(G134gat, Gate107)         #5.44
+n457       = NAND1(n383, Gate137)         #12.53
+n529       = NAND1(G162gat, Gate93)         #5.44
+n514       = NAND1(Gate122, G141gat)         #5.44
+n98        = NAND1(n97, n96)         #67.34
+n399       = NAND1(G15gat, Gate139)         #5.44
+n564       = NAND1(G204gat, Gate159)         #5.44
+n412       = NAND1(G29gat, Gate161)         #5.44
+n474       = NAND1(Gate97, G106gat)         #5.44
+n546       = NAND1(n245, Gate41)         #6.21
+n425       = NAND1(n424, n423)         #0
+n315       = NAND1(n313, n314)         #46.7
+n569       = NAND1(G211gat, Gate153)         #5.44
+n389       = NAND1(G1gat, Gate102)         #5.44
+n559       = NAND1(Gate56, G197gat)         #5.44
+n459       = NAND1(Gate8, G85gat)         #5.44
+n464       = NAND1(G92gat, Gate151)         #5.44
+n469       = NAND1(G99gat, Gate68)         #5.44
+n492       = NAND1(G113gat, Gate105)         #5.44
+n391       = NAND1(Gate101, n389)         #2
+n443       = NAND1(n441, Gate133)         #2
+n452       = NAND1(G78gat, n451)         #2
+n497       = NAND1(G120gat, Gate64)         #5.44
+n538       = NAND1(G169gat, n537)         #2
+n415       = NAND1(n414, n413)         #0
+n525       = NAND1(n524, G155gat)         #2
+n292       = NAND1(n291, n287)         #72.78
+n215       = NAND1(n213, n212)         #46.38
+n521       = NAND1(n519, Gate140)         #2
+n504       = NAND1(Gate3, n502)         #2
+n498       = NAND1(G120gat, n497)         #2
+n561       = NAND1(Gate55, n559)         #2
+n86        = NAND2(G225gat, G233gat)         #79.94
+n494       = NAND1(Gate104, n492)         #2
+n493       = NAND1(G113gat, n492)         #2
+n471       = NAND1(Gate67, n469)         #2
+n189       = NAND2(G71gat, G78gat)         #83.66
+n470       = NAND1(G99gat, n469)         #2
+n453       = NAND1(Gate61, n451)         #2
+n557       = NAND1(n487, Gate66)         #12.53
+n395       = NAND1(G8gat, n394)         #2
+n316       = NAND1(n282, n315)         #42.71
+n448       = NAND1(n446, Gate1)         #2
+n539       = NAND1(Gate90, n537)         #2
+n442       = NAND1(G64gat, n441)         #2
+n234       = NAND1(n196, n147)         #62.58
+n103       = NAND2(G162gat, G155gat)         #81.66
+n438       = NAND1(Gate94, n436)         #2
+n429       = NAND1(n427, Gate135)         #2
+n428       = NAND1(G50gat, n427)         #2
+n321       = NAND2(n320, G15gat)         #68.45
+n413       = NAND1(G29gat, n412)         #2
+n406       = NAND1(Gate5, n404)         #2
+n437       = NAND1(G57gat, n436)         #2
+n405       = NAND1(G22gat, n404)         #2
+n401       = NAND1(n399, Gate138)         #2
+n400       = NAND1(n399, G15gat)         #2
+n544       = NAND1(Gate44, n542)         #2
+n460       = NAND1(n459, G85gat)         #2
+n204       = NAND1(n203, n202)         #78.22
+n553       = NAND1(G190gat, n552)         #2
+n571       = NAND1(Gate152, n569)         #2
+n566       = NAND1(Gate158, n564)         #2
+n567       = NAND1(n565, n566)         #0
+n550       = NAND1(n548, n549)         #0
+n125       = NAND2(n123, G141gat)         #69.17
+n454       = NAND1(n452, n453)         #0
+n398       = NAND1(n344, Gate119)         #6.21
+n576       = NAND1(n574, Gate88)         #2
+n510       = NAND1(n509, n508)         #0
+n422       = NAND1(Gate34, G43gat)         #5.44
+n143       = NAND1(n141, n142)         #77.94
+n349       = NAND2(G78gat, G106gat)         #85.1
+n500       = NAND1(n499, n498)         #0
+n449       = NAND1(n447, n448)         #0
+n434       = NAND1(Gate36, n383)         #12.53
+n562       = NAND1(n560, n561)         #0

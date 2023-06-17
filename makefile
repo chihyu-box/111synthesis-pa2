@@ -1,6 +1,6 @@
 TARGET	= main
 CC	= g++ -std=c++17
-ABC	= /home/yu-vm/Workshop/cpp_workspace/abc_pa2
+ABC	= .
 
 SRCS	= $(wildcard *.cpp)
 OBJS	= ${SRCS:.cpp=.o}
