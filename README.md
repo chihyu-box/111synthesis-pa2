@@ -1,6 +1,6 @@
 # 111synthesis-pa2
 
-未包含 [libabc.a]
+未包含libabc.a 檔案太大需自行放入
 
 make編譯產生main
 
